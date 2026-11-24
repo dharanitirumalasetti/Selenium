@@ -6,6 +6,8 @@
 - `getAttribute()` – Retrieves the attribute value of an element.
 - `getText()` – Retrieves visible text from a webpage.
 - `isSelected()` – Checks whether an element is selected.
+- `isEnabled()` – Checks whether an element is enabled or disabled.
+- `isDisplayed()` – Checks whether an element is visible on the webpage.
 - `Assert.assertEquals()` – Compares actual and expected results using TestNG.
 - `navigate().to()` – Navigates to a specified URL.
 - `navigate().back()` – Navigates to the previous webpage.
