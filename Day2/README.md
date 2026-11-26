@@ -48,3 +48,4 @@ The important file in a Maven project. It is an XML file. Fields in it:
 - Understand why we create a Maven project and what files it has.
 - Understand the fields available in `pom.xml`.
 - Maven project and normal project run the same way, only the structure is different.
+- 
