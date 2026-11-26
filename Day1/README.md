@@ -64,3 +64,6 @@ Running test cases automatically using tools and scripts instead of doing them m
 4. Click **Install** and then **Finish**.
 5. Open IntelliJ IDEA and accept the terms.
 6. Check the setup: create a new project, select the JDK installed earlier, and run a simple project to confirm it works.
+## Learning Outcome
+
+Understood the basics of manual testing, automation testing, and test cases.
