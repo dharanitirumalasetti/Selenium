@@ -42,7 +42,7 @@ The important file in a Maven project. It is an XML file. Fields in it:
 1. Create the Maven project.
 2. Java code is under `src/main/java`.
 3. Open the default class and run it.
-4. We get the output in the console.
+4. We get the output in the console. 
 
 ## Key Points
 - Understand why we create a Maven project and what files it has.
