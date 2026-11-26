@@ -25,9 +25,4 @@
 - Code that only opens the browser is enough to start (`new ChromeDriver()` and `driver.get()`).
 - Try to understand the code, run it in the IDE and push it to GitHub.
 
-## Coming Next
-- How to find elements.
-- XPath and CSS selectors.
-- JavaScript Executor.
-- Why we use click.
-- How to pass values. 
+
