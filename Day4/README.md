@@ -30,4 +30,4 @@
 - XPath and CSS selectors.
 - JavaScript Executor.
 - Why we use click.
-- How to pass values.
+- How to pass values. 
