@@ -42,4 +42,4 @@ The dependency downloads the Selenium jar files. These jar files give us the cla
 ## Key Points
 - Add dependencies in `pom.xml` and reload the project.
 - If you get any error while running, check the dependency version.
-- Make sure Chrome is installed.
+- Make sure Chrome is installed. 
